@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tomcat00\\source\\repos\\Books\\Books\\Books.csproj",
+      "projectUniqueName": "C:\\Users\\Tomcat00\\Dotnet-401\\Lab-08-Phil-s-Lending-Library\\Books\\Books\\Books.csproj",
       "projectName": "Books",
-      "projectPath": "C:\\Users\\Tomcat00\\source\\repos\\Books\\Books\\Books.csproj",
+      "projectPath": "C:\\Users\\Tomcat00\\Dotnet-401\\Lab-08-Phil-s-Lending-Library\\Books\\Books\\Books.csproj",
       "packagesPath": "C:\\Users\\Tomcat00\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tomcat00\\source\\repos\\Books\\Books\\obj\\",
+      "outputPath": "C:\\Users\\Tomcat00\\Dotnet-401\\Lab-08-Phil-s-Lending-Library\\Books\\Books\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tomcat00\\AppData\\Roaming\\NuGet\\NuGet.Config",

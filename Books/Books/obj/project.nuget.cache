@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/YuhIGwhVGPTa0ij+6WKxVVOY3U9iF90IX1pR2+gfif1cLLddBMQp1zY3aJc+qCS9WTZdKU9RvybkkQ/2++adQ==",
+  "dgSpecHash": "TSg8laX++voQ5K7RjeihbPE0eIKpNWE8s99rmBkMe9DK6ymJDXxz9DU80FApzQpo2yDS5vL5F3FwjwczUmL1RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomcat00\\source\\repos\\Books\\Books\\Books.csproj",
+  "projectFilePath": "C:\\Users\\Tomcat00\\Dotnet-401\\Lab-08-Phil-s-Lending-Library\\Books\\Books\\Books.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

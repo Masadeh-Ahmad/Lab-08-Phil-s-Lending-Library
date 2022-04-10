@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G5EDIA2fK1t/dXBpz3lsAVaJd2keN/MevJXEjb6F5B8DOo4wuDf2UTI8QqKdhuh0j+fAxVKrwP/MxiZi0ssIRA==",
+  "dgSpecHash": "3/aI90N8nJuN91j8bhYq6UGZ6mYVev4cRYw9MdvfiQrfgwXRIqXBcEJw8EZgQF+t5HVeJGFUd3fBk1tPP3SsVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tomcat00\\source\\repos\\Books\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\Tomcat00\\Dotnet-401\\Lab-08-Phil-s-Lending-Library\\Books\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tomcat00\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Tomcat00\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
