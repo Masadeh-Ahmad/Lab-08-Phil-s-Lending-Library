@@ -16,6 +16,7 @@ namespace Books
         public void Add(string title, string firstName, string lastName, int numberOfPages)
         {
             Book book = new Book(title, firstName, lastName, numberOfPages);
+
             if (!bookLibrary.TryAdd(book.title, book)) Console.WriteLine("The Book with title: " + title + " Already exist");
 
         }
@@ -24,12 +25,15 @@ namespace Books
         public Book Borrow(string title)
         {
             Book book = null;
+
             if(bookLibrary.TryGetValue(title, out book)) bookLibrary.Remove(title);
             else Console.WriteLine("The Book with title: "+title+" Does not exist");
+
             return book;
         }
         public void Return(Book book)
         {
+
             if (!bookLibrary.TryAdd(book.title, book)) Console.WriteLine("The Book with title: " + book.title + " Already exist");
         }
 
